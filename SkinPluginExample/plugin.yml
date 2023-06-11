@@ -5,7 +5,6 @@ main: Himbeer\SkinThief\Main
 src-namespace-prefix: Himbeer\SkinThief
 api:
   - 4.0.0
-  - 5.0.0
 author: Himbeer
 website: himbeer.me
 description: "Steal other player's skins.."
