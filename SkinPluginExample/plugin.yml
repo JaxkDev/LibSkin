@@ -2,6 +2,7 @@
 name: SkinThief
 version: 2.0.1
 main: Himbeer\SkinThief\Main
+src-namespace-prefix: Himbeer\SkinThief
 api:
   - 4.0.0
   - 5.0.0
