@@ -8,7 +8,7 @@ api:
   - 5.0.0
 author: Himbeer
 website: himbeer.me
-description: "Steal other player's skins"
+description: "Steal other player's skins."
 
 permissions:
   skinthief.command:
