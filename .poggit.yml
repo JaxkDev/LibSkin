@@ -7,6 +7,4 @@ projects:
   SkinThief:
     type: plugin
     path: SkinPluginExample
-    libs:
-      - src: /LibSkin
 ...
